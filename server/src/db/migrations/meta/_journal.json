@@ -15,6 +15,13 @@
       "when": 1752271512394,
       "tag": "0001_fixed_maria_hill",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752791524294,
+      "tag": "0002_lonely_sersi",
+      "breakpoints": true
     }
   ]
 }
