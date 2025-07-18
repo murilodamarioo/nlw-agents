@@ -36,7 +36,7 @@ GET {{baseUrl}}/rooms/{{roomId}}/questions
 
 ###
 
-# Cfreate question
+# Create question
 # @name createQuestion
 POST {{baseUrl}}/rooms/{{roomId}}/questions
 Accept: application/json
